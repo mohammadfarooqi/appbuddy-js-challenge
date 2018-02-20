@@ -19,3 +19,5 @@ Output will consist of a list of string values (in Haskell: Open or Senior) stat
 
 #### Example Output
 `["Open", "Open", "Senior", "Open", "Open", "Senior"]`  
+
+Source: https://www.codewars.com/kata/categorize-new-member/train/javascript
